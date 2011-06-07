@@ -1,0 +1,164 @@
+/********************************************************************************
+Rain CSS Coding Standards outlined at http://standards.mediarain.com/html-css
+
+	@Section: Applies to all page sections
+	**Search for @ symbol or @Section: to search by category
+
+	Color Reference:
+    	white: #FFFFFF
+    	black: #000000
+    	 gray: #333333
+
+	Font-Family Reference:
+	
+
+********************************************************************************/
+
+
+
+/************************************
+
+	@Search: Global
+
+************************************/
+
+
+body {
+	background: ;
+	color: ;
+	font-family: ;
+}
+a {
+	text-decoration: none;
+	outline: none;
+	overflow: hidden;
+	color: ;
+}
+a:hover {
+	text-decoration: none;
+	outline: none;
+	overflow: hidden;
+}
+a:active {
+	text-decoration: none;
+	outline: none;
+	overflow: hidden;
+}
+a:visited {
+	text-decoration: none;
+	outline: none;
+	overflow: hidden;
+}
+sup {
+	font-size: 60%;
+	vertical-align: top;
+}
+.clear {
+	clear: both;
+	display: block;
+}
+
+
+
+/*******************************************
+
+	@Section: Type
+
+*******************************************/
+
+
+b {
+	font-weight: 700;
+}
+em {
+	font-style: oblique;
+}
+h1 {
+	
+}
+h2 {
+	
+}
+h3 {
+	
+}
+p {
+	
+}
+
+
+
+/*******************************************
+
+	@Section: Forms
+
+*******************************************/
+
+
+form {
+	
+}
+
+
+
+/*******************************************
+
+	@Section: Header
+
+*******************************************/
+
+
+header {
+	width: 1000px;
+	height: ;
+	margin: auto;
+	position: relative;
+}
+header a#logo {
+	background: url(../img/logo.png) no-repeat;
+	text-indent: -9999px;
+	display: block;
+	width: ;
+	height: ;
+}
+
+
+
+/*******************************************
+
+	@Section: Navigation
+
+*******************************************/
+
+
+#nav {
+	
+}
+#nav li {
+	
+}
+
+
+
+/*******************************************
+
+	@Section: Footer
+
+*******************************************/
+
+
+footer {
+	width: 1000px;
+	margin: auto;
+	position: relative;
+}
+
+
+
+/*******************************************
+
+	@Section: Home Page Content
+
+*******************************************/
+
+
